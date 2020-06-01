@@ -1,1 +1,1 @@
-# segmenting_and_clustering
+# Segmenting and Clustering
